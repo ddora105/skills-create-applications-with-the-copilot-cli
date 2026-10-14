@@ -1,5 +1,5 @@
 {
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "workbench.sideBar.visible": false,
     "workbench.panel.defaultLocation": "bottom",
     "workbench.editor.showTabs": "none",
